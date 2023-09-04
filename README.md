@@ -1,5 +1,4 @@
-DEVELOPMENT-OF-CYBER-THREAT-ANALYSIS-ON-ANDROID-APPS-
-the project contains 2 dataset
+The project contains 2 dataset
 a. the permission of things on andriod apps 
 b. the antivirus 
 some machine learning model is use to train the model which include 
